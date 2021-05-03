@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tamiresdatascience
 - 👀 I’m interested in quantum computing, data analysis, artificial inteligence, material physics,rock  physics.
-- 🌱 I’m currently learning finance and rock physics.
+- 🌱 I’m currently learning rock physics and  material physics.
 - 💞️ I’m looking to collaborate on data analysis projects
 - 📫 How to reach me tamiresdatascience29@gmail.com
 
